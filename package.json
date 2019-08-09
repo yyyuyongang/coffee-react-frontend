@@ -1,0 +1,26 @@
+{
+  "name": "rblog",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "coffeescript": "^2.4.1",
+    "react": "^16.9.0",
+    "react-coffee-scripts": "0.2.0",
+    "react-dom": "^16.9.0"
+  },
+  "scripts": {
+    "start": "react-coffee-scripts start",
+    "build": "react-coffee-scripts build",
+    "test": "react-coffee-scripts test",
+    "eject": "react-coffee-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
